@@ -1,5 +1,7 @@
 # AVCam: Building a Camera App
 
+[Source](https://developer.apple.com/documentation/avfoundation/capture_setup/avcam_building_a_camera_app)
+
 Capture photos with depth data and record video using the front and rear iPhone and iPad cameras.
 
 ## Overview
